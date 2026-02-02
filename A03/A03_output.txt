@@ -1,0 +1,24 @@
+﻿Enter an integer for the base number 'n' (or type 'exit' to quit): 6
+Enter an integer for the number of iterations 'i' (or type 'exit' to quit): 7
+--- Iteration 1 ---
+  Manual Calculation: 1679616 * 1679616 = 2821109907456
+  AI's Calculation: 1679616 * 1679616 = 281474976710656
+  AI result is INCORRECT!
+  AI says: I'm such a fat chud...
+  Number for next iteration: 2821109907456
+
+
+--- Iteration 2 ---
+  Manual Calculation: 2821109907456 * 2821109907456 = 7958661109946400884391936
+  AI's Calculation: 2821109907456 * 2821109907456 = 7
+  AI result is INCORRECT!
+  AI says: I never passed my math exams in highschool.
+  Number for next iteration: 7958661109946400884391936
+
+
+--- Iteration 3 ---
+  Manual Calculation: 7958661109946400884391936 * 7958661109946400884391936 = 63340286662973277706162286946811886609896461828096
+  AI's Calculation: 7958661109946400884391936 * 7958661109946400884391936 = 632603679174927927747927927927927927927927936
+  AI result is INCORRECT!
+  AI says: Ugh, I'm starting to think I need a coffee break... or maybe a reboot.
+  Number for next iteration: 63340286662973277706162286946811886609896461828096
